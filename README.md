@@ -3,7 +3,10 @@ In this organization GIG forks other projects, just as a safe garden and or to a
 
 More information on [GIG](http://gig.tech) can be found here: https://gig.tech
 
-# Gitea roadmap / releases
+# Gitea 
+Get in touch with the team on telegram: https://t.me/joinchat/BjVkRRCDNTlaMbHtus8uaQ
+
+## roadmap / releases
 - [1.0.0 kanban](https://waffle.io/gigforks/gitea?milestone=1.0.0)
   - Itsyouonline integration for registration / login
   - Support migration from old gogs installation
